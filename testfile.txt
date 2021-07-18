@@ -1,2 +1,4 @@
 This is sample data
 line 2
+line 3
+sample file
