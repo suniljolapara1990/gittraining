@@ -1,7 +1,1 @@
-sample file 2
-
-reset commit file 2
-reset 2nd tim
-
-
-
+Now it is modified for git revert command
