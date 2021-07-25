@@ -1,3 +1,2 @@
-sample file 1
+Changes for git revert 2nd time
 
-reset file 1
