@@ -1,1 +1,7 @@
-sample file 1
+sample file 2
+
+reset commit file 2
+reset 2nd tim
+
+
+
