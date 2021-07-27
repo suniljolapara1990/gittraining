@@ -1,1 +1,3 @@
 Now it is modified for git revert command
+again adding sample data to text file
+again adding sample data to compare file 2
