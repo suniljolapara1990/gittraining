@@ -1,3 +1,5 @@
 sample file 1
 reset file 1
 again adding sample data to text file
+Introduce yourself
+The easiest way to introduce yourself on GitHub is by creating a README in a repository about you! You can start here
