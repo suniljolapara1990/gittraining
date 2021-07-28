@@ -1,4 +1,3 @@
 sample file 1
-
 reset file 1
 again adding sample data to text file
